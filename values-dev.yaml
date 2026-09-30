@@ -1,0 +1,6 @@
+tgb:
+  TargetGroupARN: arn:aws:elasticloadbalancing:us-east-1:793770371113:targetgroup/roboshop-dev-frontend/aea9bda2ea12a076
+
+deployment:
+  imageRepo: 793770371113.dkr.ecr.us-east-1.amazonaws.com/roboshop/frontend
+  imageVersion: 
